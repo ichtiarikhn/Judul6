@@ -32,7 +32,7 @@ async function loadMahasiswa(keyword = '') {
     tabelBody.innerHTML = `
     <tr>
         <td colspan="8" style="text-align:center; padding: 20px; color: var(--text-muted);">
-            Memuat data dari server...
+            Memuat data...
         </td>
     </tr>
 `;
